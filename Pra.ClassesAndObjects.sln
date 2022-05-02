@@ -5,6 +5,10 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pra.ClassesAndObjects.Wpf", "Pra.ClassesAndObjects.Wpf\Pra.ClassesAndObjects.Wpf.csproj", "{48A88D5D-4C59-4C10-9703-087A18219921}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pra.ClassesAndObjects.Core", "Pra.ClassesAndObjects.Core\Pra.ClassesAndObjects.Core.csproj", "{A03A484C-2504-4D0C-B8A6-A3DC233271C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pra.ClassesAndObjects.Cons", "Pra.ClassesAndObjects.Cons\Pra.ClassesAndObjects.Cons.csproj", "{580FA451-BDDA-45DD-9750-543C8456E1BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{48A88D5D-4C59-4C10-9703-087A18219921}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48A88D5D-4C59-4C10-9703-087A18219921}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48A88D5D-4C59-4C10-9703-087A18219921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A03A484C-2504-4D0C-B8A6-A3DC233271C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03A484C-2504-4D0C-B8A6-A3DC233271C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03A484C-2504-4D0C-B8A6-A3DC233271C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03A484C-2504-4D0C-B8A6-A3DC233271C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{580FA451-BDDA-45DD-9750-543C8456E1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580FA451-BDDA-45DD-9750-543C8456E1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580FA451-BDDA-45DD-9750-543C8456E1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580FA451-BDDA-45DD-9750-543C8456E1BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
